@@ -3,8 +3,8 @@
 ```JS
 aboutMe = {
     Name      : "Surendar Singh",
-    Interests :["Programming", "Web Development", "Freelance"],
-    Languages :["C++","MERN","HTML","CSS","JS","React Js","Express Js","MongoDB"]
+    Interests :["DevOps", "Web Development", "Cloud Computing"],
+    Languages :["Docker", "Kubernetes", "C++","MERN Stack","HTML","CSS","JS","Nodejs","React","MongoDB", "RabbitMQ", "Redis", "Apache Kafka"]
 }
 ```
 
