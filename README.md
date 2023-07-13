@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full stack developer with a pinch of DevOps<br>I'm the guy who never took CS Degree<br>I'm Open to any cool projects
+I'm a Full stack developer with a pinch of DevOps<br>I'm the guy who never took CS Degree<br>I'm open to any cool projects
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surendarsingh) 
 
